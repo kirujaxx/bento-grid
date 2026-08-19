@@ -87,8 +87,6 @@ h2 {
                 ;
         }
 
-
-
     @media (width > 960px) {
 
         grid-template-areas:
@@ -98,6 +96,7 @@ h2 {
             "card8 card6 card5 card5";
     }
 }
+
 .bento-grid .card {
     color: var(--card-txt-color, var(--black));
     background-color: var(--card-bg-color, var(--white));
